@@ -1,2 +1,4 @@
-2. create routes
-3. index.js
+1. create routes
+2. controllers
+3. create utils
+4. index.js
