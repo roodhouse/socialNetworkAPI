@@ -18,4 +18,4 @@ router.route('/:userId/friends/:friendId').post(addFriend).delete(removeFriend);
 router.route('/:userId/thought').post(addThought);
 router.route('/:userId/thought/:thoughtId').delete(removeThought);
 router.route('/:userId/thought').post(addThought);
-module.exports = router;
+module.exports = router; 

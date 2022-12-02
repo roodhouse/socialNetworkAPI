@@ -1,5 +1,12 @@
-1. create routes
-    - thought route
 2. controllers
+    user ctrl
+        createUser,
+        updateUser,
+        removeUser,
+        addThought,
+        removeThought,
+        addFriend,
+        removeFriend
+    though ctrl
 3. create utils
 4. index.js
