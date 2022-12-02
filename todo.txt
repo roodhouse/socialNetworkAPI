@@ -1,0 +1,4 @@
+1. create directory skeleton
+2. create models 
+3. create connection
+4. 
