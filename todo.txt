@@ -1,5 +1,2 @@
-1. create models 
-    - thought
-        - reaction (subdoc)
 2. create routes
 3. index.js
