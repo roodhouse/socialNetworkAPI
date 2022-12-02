@@ -1,4 +1,5 @@
 1. create routes
+    - thought route
 2. controllers
 3. create utils
 4. index.js
