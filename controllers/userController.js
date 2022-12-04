@@ -1,5 +1,5 @@
-const { ObjectId }      = require('mongoose').Types;
-const { User, Thought } = require('../models');
+const { ObjectId } = require('mongoose').Types;
+const  User        = require('../models/User');
 
 // Aggregate Function
 const headCount = async () =>
