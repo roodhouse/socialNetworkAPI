@@ -1,2 +1,0 @@
-1. create utils
-2. index.js
